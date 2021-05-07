@@ -7,7 +7,7 @@ while (($#)); do
 ```
 
 ```sh
-# this this out!
+# test this out!
 sh cli.sh -e -s
 
 ```
