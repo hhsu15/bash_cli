@@ -7,6 +7,7 @@ while (($#)); do
 ```
 
 ```sh
-sh cli.sh 1 2 3 
+# this this out!
+sh cli.sh -e -s
 
 ```
